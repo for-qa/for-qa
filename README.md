@@ -9,7 +9,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gairik-singha/)
 [![GitHub followers](https://img.shields.io/github/followers/revolution-qa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revolution-qa)
 
 </div>
