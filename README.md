@@ -30,7 +30,7 @@
 
 ---
 
-### ⚡ [IntelliExtract Runner](https://github.com/gairiksingha-pixel/intelliextract-runner)
+### ⚡ [IntelliExtract Runner](https://github.com/revolution-qa/intelliextract-runner)
 > A **high-performance TypeScript orchestrator** for large-scale data extraction with a real-time Web Dashboard.
 
 - 📊 Real-time glassmorphism dashboard with P50/P95/P99 latency analytics and throughput charts
