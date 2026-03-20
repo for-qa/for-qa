@@ -7,15 +7,18 @@
 *I build enterprise-grade automation frameworks and high-performance backend systems —*
 *engineered with AI Agent Orchestration and Clean Architecture principles.*
 
+📍 India &nbsp;·&nbsp; 5+ Years in QA & Automation Engineering
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gairik-singha/)
+[![Email](https://img.shields.io/badge/Email-gairiksingha@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gairiksingha@live.com)
 [![GitHub followers](https://img.shields.io/github/followers/for-qa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/for-qa)
 ![Profile Views](https://komarev.com/ghpvc/?username=for-qa&color=10B981&style=for-the-badge&label=Profile+Views)
 
 ---
 
-🟢 **Open to Senior QA / SDET / AI Engineering roles**
+### 🟢 Open to Senior QA / SDET / AI Quality Engineering roles — Worldwide & Remote
 
 ---
 
@@ -98,8 +101,24 @@
 
 ---
 
+## 📬 Get In Touch
+
+I'm actively looking for **Senior QA Engineer / SDET / AI Quality Engineering** opportunities.
+
+| | |
+|---|---|
+| 📧 **Email** | [gairiksingha@live.com](mailto:gairiksingha@live.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/gairik-singha](https://www.linkedin.com/in/gairik-singha/) |
+| 🐙 **GitHub** | [github.com/for-qa](https://github.com/for-qa) |
+
+> Response time: usually within 24 hours.
+
+---
+
 <div align="center">
 
 *"The future of QA is not writing tests manually — it's orchestrating agents that write them for you."*
 
 </div>
+
+
