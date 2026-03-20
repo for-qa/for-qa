@@ -27,6 +27,7 @@
 > An enterprise-grade **Playwright + TypeScript** test suite built **100% via AI Agent Orchestration**.
 
 [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
+[![Live Report](https://img.shields.io/badge/Playwright_Report-Live-2EAD33?style=flat&logo=playwright&logoColor=white)](https://for-qa.github.io/agentic-e2e-framework/)
 
 - 🧠 Entire codebase generated using multi-step AI Agent workflows
 - 📋 Every test case maps directly to business Acceptance Criteria via structured prompt engineering
@@ -42,6 +43,8 @@
 > A **high-performance TypeScript orchestrator** for large-scale data extraction with a real-time Web Dashboard.
 
 [![CI](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml)
+
+<img src="https://raw.githubusercontent.com/for-qa/intelliextract-runner/main/docs/dashboard.png" alt="IntelliExtract Dashboard" width="600"/>
 
 - 📊 Real-time dashboard with P50/P95/P99 latency analytics and throughput charts
 - ☁️ AWS S3 sync with SHA-256 integrity checks and resumable checkpointing
