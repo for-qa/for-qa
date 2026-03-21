@@ -2,12 +2,12 @@
 
 # 👋 Hey, I'm Gairik Singha
 
-### QA Architect · Agentic AI Engineer · TypeScript Specialist
+### SDET & QA Architect · Playwright · TypeScript · AWS · GraphQL · AI Agents
 
 *I build enterprise-grade automation frameworks and high-performance backend systems —*
 *engineered with AI Agent Orchestration and Clean Architecture principles.*
 
-📍 India &nbsp;·&nbsp; 5+ Years in QA & Automation Engineering
+📍 India &nbsp;·&nbsp; 7+ Years in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🟢 Open to Senior QA / SDET / AI Quality Engineering roles — Worldwide & Remote
+### 🟢 Open to SDET / Senior QA Automation / AI Quality Engineering roles — Worldwide & Remote
 
 ---
 
@@ -66,11 +66,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -80,10 +81,26 @@
 
 | Domain | Skills |
 |---|---|
-| **QA & Testing** | Playwright · E2E Automation · RBAC Testing · Performance Testing · ISTQB CT-GenAI |
-| **AI Engineering** | Agentic Workflows · Prompt Engineering · LLM Orchestration · AI Risk Mitigation |
-| **Backend** | TypeScript · Node.js · SQLite · AWS S3 · REST APIs · Clean Architecture · SOLID |
-| **DevOps / CI-CD** | GitHub Actions · Bitbucket Pipelines · Shard-based Test Execution · Vitest |
+| **QA & Testing** | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry & Highlight.io |
+| **AI Engineering** | Agentic Workflows · Prompt Engineering · Claude / GPT-4o / Gemini / Perplexity · Cursor IDE · Antigravity |
+| **Backend & Cloud** | TypeScript · Node.js · AWS (Lambda, S3, EC2, CloudWatch) · PostgreSQL · DataGrip · Clean Architecture |
+| **DevOps / CI-CD** | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest |
+
+---
+
+## 💼 Professional Experience
+
+**SDET / QA Analyst** @ *Intelligent Revenue LLP* (Dec 2024 – Present)
+- Designed enterprise **Playwright + TypeScript** E2E framework using Clean Architecture and **AI Agent Orchestration**.
+- Validated AWS cloud infrastructure (Lambda, EC2, S3), REST/GraphQL APIs, and PostgreSQL databases.
+- Implemented parallel shard CI/CD in Bitbucket Pipelines and managed Scrum sprints via Jira Xray.
+
+**Senior Quality Assurance Executive** @ *Avalgate Software LLP* (Mar 2021 – Nov 2024)
+- Led end-to-end QA for Android, iOS, and web apps across 4 major products.
+- Reduced critical bugs by 25% via systematic black-box testing and maintained STLC documentation in Jira.
+
+**Junior QA / Internship Trainee** @ *Avalgate Software LLP* (Apr 2019 – Feb 2021)
+- Executed functional test cases across Android, iOS & web through the full bug lifecycle.
 
 ---
 
@@ -103,7 +120,7 @@
 
 ## 📬 Get In Touch
 
-I'm actively looking for **Senior QA Engineer / SDET / AI Quality Engineering** opportunities.
+I'm actively looking for **SDET / Senior QA Automation / AI Quality Engineering** opportunities.
 
 | | |
 |---|---|
