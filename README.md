@@ -4,8 +4,8 @@
 
 ### SDET & QA Architect · Playwright · TypeScript · AWS · GraphQL · AI Agents
 
-*I build enterprise-grade automation frameworks and high-performance backend systems —*
-*engineered with AI Agent Orchestration and Clean Architecture principles.*
+_I build enterprise-grade automation frameworks and high-performance backend systems —_
+_engineered with AI Agent Orchestration and Clean Architecture principles._
 
 📍 India &nbsp;·&nbsp; 7+ Years in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
@@ -16,7 +16,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/for-qa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/for-qa)
 ![Profile Views](https://komarev.com/ghpvc/?username=for-qa&color=10B981&style=for-the-badge&label=Profile+Views)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95b0e71 (chore: update README formatting, project links, and styling)
 ---
 
 </div>
@@ -24,6 +27,7 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [Agentic E2E Framework — Portfolio Demo](https://github.com/for-qa/agentic-e2e-framework)
+
 > An enterprise-grade **Playwright + TypeScript** test suite built **100% via AI Agent Orchestration**.
 
 [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
@@ -40,6 +44,7 @@
 ---
 
 ### ⚡ [IntelliExtract Runner](https://github.com/for-qa/intelliextract-runner)
+
 > A **high-performance TypeScript orchestrator** for large-scale data extraction with a real-time Web Dashboard.
 
 [![CI](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml)
@@ -76,27 +81,30 @@
 
 ## 🧠 Core Skills
 
-| Domain | Skills |
-|---|---|
-| **QA & Testing** | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry & Highlight.io |
-| **AI Engineering** | Agentic Workflows · Prompt Engineering · Claude / GPT-4o / Gemini / Perplexity · Cursor IDE · Antigravity |
-| **Backend & Cloud** | TypeScript · Node.js · AWS (Lambda, S3, EC2, CloudWatch) · PostgreSQL · DataGrip · Clean Architecture |
-| **DevOps / CI-CD** | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest |
+| Domain              | Skills                                                                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------------- |
+| **QA & Testing**    | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry & Highlight.io         |
+| **AI Engineering**  | Agentic Workflows · Prompt Engineering · Claude / GPT-4o / Gemini / Perplexity · Cursor IDE · Antigravity |
+| **Backend & Cloud** | TypeScript · Node.js · AWS (Lambda, S3, EC2, CloudWatch) · PostgreSQL · DataGrip · Clean Architecture     |
+| **DevOps / CI-CD**  | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest                    |
 
 ---
 
 ## 💼 Professional Experience
 
-**SDET / QA Analyst** @ *Intelligent Revenue LLP* (Dec 2024 – Present)
+**SDET / QA Analyst** @ _Intelligent Revenue LLP_ (Dec 2024 – Present)
+
 - Designed enterprise **Playwright + TypeScript** E2E framework using Clean Architecture and **AI Agent Orchestration**.
 - Validated AWS cloud infrastructure (Lambda, EC2, S3), REST/GraphQL APIs, and PostgreSQL databases.
 - Implemented parallel shard CI/CD in Bitbucket Pipelines and managed Scrum sprints via Jira Xray.
 
-**Senior Quality Assurance Executive** @ *Avalgate Software LLP* (Mar 2021 – Nov 2024)
+**Senior Quality Assurance Executive** @ _Avalgate Software LLP_ (Mar 2021 – Nov 2024)
+
 - Led end-to-end QA for Android, iOS, and web apps across 4 major products.
 - Reduced critical bugs by 25% via systematic black-box testing and maintained STLC documentation in Jira.
 
-**Junior QA / Internship Trainee** @ *Avalgate Software LLP* (Apr 2019 – Feb 2021)
+**Junior QA / Internship Trainee** @ _Avalgate Software LLP_ (Apr 2019 – Feb 2021)
+
 - Executed functional test cases across Android, iOS & web through the full bug lifecycle.
 
 ---
@@ -105,11 +113,11 @@
 
 <div align="center">
 
-![for-qa's GitHub stats](https://github-readme-stats.vercel.app/api?username=for-qa&show_icons=true&theme=tokyonight&hide_border=true)
+![for-qa's GitHub stats](https://gh-readme-stats.vercel.app/api?username=for-qa&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=for-qa&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=for-qa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=for-qa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -119,11 +127,11 @@
 
 I'm actively looking for **SDET / Senior QA Automation / AI Quality Engineering** opportunities.
 
-| | |
-|---|---|
-| 📧 **Email** | [gairiksingha@live.com](mailto:gairiksingha@live.com) |
+|                 |                                                                             |
+| --------------- | --------------------------------------------------------------------------- |
+| 📧 **Email**    | [gairiksingha@live.com](mailto:gairiksingha@live.com)                       |
 | 💼 **LinkedIn** | [linkedin.com/in/gairik-singha](https://www.linkedin.com/in/gairik-singha/) |
-| 🐙 **GitHub** | [github.com/for-qa](https://github.com/for-qa) |
+| 🐙 **GitHub**   | [github.com/for-qa](https://github.com/for-qa)                              |
 
 > Response time: usually within 24 hours.
 
@@ -131,8 +139,6 @@ I'm actively looking for **SDET / Senior QA Automation / AI Quality Engineering*
 
 <div align="center">
 
-*"The future of QA is not writing tests manually — it's orchestrating agents that write them for you."*
+_"The future of QA is not writing tests manually — it's orchestrating agents that write them for you."_
 
 </div>
-
-
