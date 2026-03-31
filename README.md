@@ -16,10 +16,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 [![GitHub followers](https://img.shields.io/github/followers/for-qa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/for-qa)
 ![Profile Views](https://komarev.com/ghpvc/?username=for-qa&color=10B981&style=for-the-badge&label=Profile+Views)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 95b0e71 (chore: update README formatting, project links, and styling)
 ---
 
 </div>
