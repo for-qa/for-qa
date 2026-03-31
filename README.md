@@ -16,9 +16,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/for-qa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/for-qa)
 ![Profile Views](https://komarev.com/ghpvc/?username=for-qa&color=10B981&style=for-the-badge&label=Profile+Views)
 
----
-
-### 🟢 Open to SDET / Senior QA Automation / AI Quality Engineering roles — Worldwide & Remote
 
 ---
 
