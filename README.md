@@ -39,23 +39,86 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### ⚡ [IntelliExtract Runner](https://github.com/for-qa/intelliextract-runner)
+### ⚡ [Xtractor](https://github.com/for-qa/xtractor)
 
-> A **high-performance TypeScript orchestrator** for large-scale data extraction with a real-time Web Dashboard.
+> A **Professional, High-Performance Extraction Orchestrator & Dashboard** built on Clean Architecture constraints.
 
-[![CI](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/intelliextract-runner/actions/workflows/ci.yml)
+[![CI](https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/xtractor/actions/workflows/ci.yml)
 
-<img src="https://raw.githubusercontent.com/for-qa/intelliextract-runner/main/docs/dashboard.png" alt="IntelliExtract Dashboard" width="600"/>
+<img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" alt="Xtractor Dashboard" width="600"/>
 
-- 📊 Real-time dashboard with P50/P95/P99 latency analytics and throughput charts
+- 📊 Real-time Dashboard with P50/P95/P99 latency analytics and throughput charts
 - ☁️ AWS S3 sync with SHA-256 integrity checks and resumable checkpointing
-- ⏰ Smart cron scheduler with SQLite-backed persistence for multi-tenant batch jobs
-- 📧 Automated professional HTML failure reports via SMTP/Nodemailer
-- 🔐 Fernet-encrypted secrets for secure credential management at rest
+- ⏰ Smart Cron Manager with SQLite-backed persistence for multi-tenant batch jobs
+- 📧 Automated HTML Failure Reports via SMTP/Nodemailer
+- 🔐 Fernet-encrypted secrets for secure credential management
 
 `TypeScript` `AWS S3` `SQLite` `Clean Architecture` `SOLID` `Node.js` `GitHub Actions`
 
 ---
+
+### 🗄️ [QueryCanvas](https://github.com/for-qa/query-canvas)
+
+> A **comprehensive visual SQL development suite**—acts as a daily toolbox for building complex queries without writing code manually.
+
+<img src="assets/query-canvas.png" alt="QueryCanvas Platform" width="600"/>
+
+- 🧠 **AI Assistant**: Real natural language Prompt-to-SQL logic execution powered by Gemini 2.0 Flash
+- 📊 Interactive Grid: Spreadsheet-like grid system that safely handles and executes Batch INSERT commands
+- 🔗 Deeply Shareable: URL-encoded serialization allowing you to send live DB designs to colleagues instantly
+- 📝 ERD Visualizer: Live-rendering Mermaid ERD previews of schema designs
+- ✨ Browser Native: 100% Client-Side. Your connection details and DB structures remain fully private.
+
+`React` `TypeScript` `Agentic AI` `Vite`
+
+---
+
+### ⚡ [TypeScript Universe](https://github.com/for-qa/ts-universe)
+
+> An interactive, learner-centric **TypeScript educational platform** implemented completely devoid of heavy frontend frameworks.
+
+<img src="assets/ts-universe.png" alt="TypeScript Universe Dashboard" width="600"/>
+
+- 🎬 Karaoke-Style Presentations with TTS voiceover and synchronized subtitles
+- 🎯 Spaced Repetition Review queue for managing incorrectly answered cards
+- 🔥 Study Tracker with persistent daily-login streak counter
+- 🧠 Built utilizing **SOLID principles** and Clean Architecture for the Vanilla Typescript engine
+- 🛝 Integrated Playground with Monaco code editor for real-time experiments
+
+`TypeScript` `Vanilla JS/TS` `Vite` `Clean Architecture` `SOLID`
+
+---
+
+### 📄 [Document Forge](https://github.com/for-qa/document-forge)
+
+> A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images.
+
+<img src="assets/document-forge.png" alt="Document Forge Dashboard" width="600"/>
+
+- 🌐 Modern Web UI for uploading HTML files or URLs seamlessly
+- 🔌 Programmatic REST API endpoints with multipart form-data payload support
+- 📏 Custom viewports and dark-mode rendering configurations
+- ⚡ Headless browser generation utilizing Chromium underneath
+
+`Node.js` `Express` `Playwright` `E2E Testing Engine` `API`
+
+---
+
+### 🔐 [Fernet Vault](https://github.com/for-qa/fernet-vault)
+
+> A beautifully designed full-stack interface for generating and decoding symmetric Fernet tokens securely.
+
+<img src="assets/fernet-vault.png" alt="Fernet Vault UI" width="600"/>
+
+- 🎨 Designed utilizing premium glassmorphism visuals completely without thick CSS frameworks
+- 🏗️ Deeply clean-architected Backend abstraction
+- ⚡ Strict typings across Domain Logic and Express Handlers
+- 🔑 Secure key-pair verification mechanics
+
+`React` `Node.js` `Express` `Vite` `Encryption` `Clean Architecture`
+
+---
+
 
 ## 🛠️ Tech Stack
 
