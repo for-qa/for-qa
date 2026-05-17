@@ -44,8 +44,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ### 🎯 [Flakeless](https://flakeless.onrender.com/)
 
 > A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards.
-> 
-> ⚠️ **Render Free Tier Alert:** The initial page load may take **30–60 seconds** as the inactive server spins back up.
+
+> [!WARNING]
+> **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
 
 - 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
 - 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
@@ -58,7 +59,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ### 🧪 [CaseFile](https://case-file.pages.dev/)
 
-> ⚠️ **Status: In Progress (Scaffolding Complete)** — An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
+> [!IMPORTANT]
+> **Status: In Progress (Scaffolding Complete)**
+> An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
 
 - 🤖 **AI-Driven Test Generation**: Converts requirements or tickets into comprehensive, structured test suites using custom guidelines and model providers (OpenAI GPT-4o & Google Gemini).
 - 🎫 **Smart Ticket Integration**: Built-in support to auto-detect and fetch content directly from GitHub Issues, Jira, Linear, Azure DevOps, and Zoho Sprints URLs.
@@ -73,8 +76,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ### 🎮 PulsePlay
 
 > An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
-> 
-> ⚠️ **Render Free Tier Alert:** The initial page load may take **30–60 seconds** as the inactive server spins back up.
+
+> [!WARNING]
+> **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
 
 🔗 **Live Access Links:**
 *   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
@@ -143,8 +147,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ### 📄 [Document Forge](https://document-forge.onrender.com/)
 
 > A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images.
-> 
-> ⚠️ **Render Free Tier Alert:** The initial API/page load may take **30–60 seconds** as the inactive server spins back up.
+
+> [!WARNING]
+> **Render Free Tier Active:** The initial API/page load will take **30–60 seconds** while the inactive container spins back up.
 
 <img src="assets/document-forge.png" alt="Document Forge Dashboard" width="600"/>
 
