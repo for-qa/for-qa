@@ -91,7 +91,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ### 📄 [Document Forge](https://document-forge.onrender.com/)
 
-> A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images.
+> A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
 
 <img src="assets/document-forge.png" alt="Document Forge Dashboard" width="600"/>
 
@@ -106,7 +106,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ### 🎯 [Flakeless](https://flakeless.onrender.com/)
 
-> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards.
+> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
 
 - 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
 - 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
@@ -119,7 +119,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ### 🎮 [PulsePlay](https://pulse-play.onrender.com/)
 
-> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
+> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
 
 - 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
 - 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
