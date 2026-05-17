@@ -41,6 +41,51 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
+### 🎯 [Flakeless](https://flakeless.onrender.com/)
+
+> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
+
+- 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
+- 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
+- ⚡ **Offline-Ready PWA**: Fully functional offline study mode with persistent `localStorage` progress tracking and Zustand state management.
+- 🧪 **Continuous Integration**: Validated by a high-performance Playwright E2E pipeline run in 4 parallel shards on GitHub Actions.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `Playwright E2E` `Vitest` `PWA`
+
+---
+
+### 🧪 [CaseFile](https://case-file.pages.dev/)
+
+> ⚠️ **Status: In Progress (Scaffolding Complete)** — An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
+
+- 🤖 **AI-Driven Test Generation**: Converts requirements or tickets into comprehensive, structured test suites using custom guidelines and model providers (OpenAI GPT-4o & Google Gemini).
+- 🎫 **Smart Ticket Integration**: Built-in support to auto-detect and fetch content directly from GitHub Issues, Jira, Linear, Azure DevOps, and Zoho Sprints URLs.
+- 📊 **Smart Analysis & Deduplication**: Real-time coverage classification (API, UI, Security, Performance) and Jaccard-similarity duplicate test case warnings.
+- 👥 **Team & Cloud Sync**: Full user authentication and team sharing backed by Supabase with Row Level Security (RLS), falling back to native `localStorage` for offline support.
+- 📤 **Enterprise Export**: Export test cases seamlessly to CSV, JSON, Markdown, and Jira XRAY / Zephyr formats.
+
+`TypeScript` `Vite` `React` `Google Gemini API` `OpenAI API` `Supabase` `Vanilla CSS` `Clean Architecture`
+
+---
+
+### 🎮 PulsePlay
+
+> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
+
+🔗 **Live Access Links:**
+*   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
+*   💻 **[Host Screen](https://pulse-play.onrender.com/host?host_token=gairik-qa)** (For presenters to run live sessions)
+*   ⚙️ **[Admin Control Panel](https://pulse-play.onrender.com/admin?admin_token=gairik-qa)** (For managing quiz catalog & questions)
+
+- 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
+- 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
+- 📊 **Live Leaderboards & Reporting**: Features beautiful live ranking charts, hoverable results breakdown, and automated professional PDF report generation.
+- 🏗️ **Clean Architecture**: Deeply decoupled codebase using dependency inversion, separate core game logic, and port-driven adapters.
+
+`Node.js` `TypeScript` `Express` `Socket.IO` `Vite` `Vanilla JS` `Mermaid.js` `PDFKit`
+
+---
+
 ### ⚡ [Xtractor](https://github.com/for-qa/xtractor)
 
 > A **Professional, High-Performance Extraction Orchestrator & Dashboard** built on Clean Architecture constraints.
@@ -106,37 +151,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🎯 [Flakeless](https://flakeless.onrender.com/)
-
-> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
-
-- 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
-- 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
-- ⚡ **Offline-Ready PWA**: Fully functional offline study mode with persistent `localStorage` progress tracking and Zustand state management.
-- 🧪 **Continuous Integration**: Validated by a high-performance Playwright E2E pipeline run in 4 parallel shards on GitHub Actions.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `Playwright E2E` `Vitest` `PWA`
-
----
-
-### 🎮 PulsePlay
-
-> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
-
-🔗 **Live Access Links:**
-*   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
-*   💻 **[Host Screen](https://pulse-play.onrender.com/host?host_token=gairik-qa)** (For presenters to run live sessions)
-*   ⚙️ **[Admin Control Panel](https://pulse-play.onrender.com/admin?admin_token=gairik-qa)** (For managing quiz catalog & questions)
-
-- 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
-- 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
-- 📊 **Live Leaderboards & Reporting**: Features beautiful live ranking charts, hoverable results breakdown, and automated professional PDF report generation.
-- 🏗️ **Clean Architecture**: Deeply decoupled codebase using dependency inversion, separate core game logic, and port-driven adapters.
-
-`Node.js` `TypeScript` `Express` `Socket.IO` `Vite` `Vanilla JS` `Mermaid.js` `PDFKit`
-
----
-
 ### 🧠 [The Meta-Prompting Playbook](https://meta-prompt.pages.dev/)
 
 > A **high-fidelity, automated workshop slide deck** teaching advanced prompt engineering patterns through synchronized AI-voice narration and karaoke-style subtitles.
@@ -160,20 +174,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 - 🏗️ **Clean Code Architecture**: Modular curriculum-driven design separating practice tasks, content pages, and application layout.
 
 `React` `TypeScript` `React Router` `Zustand` `Vite` `Vite PWA`
-
----
-
-### 🧪 [CaseFile](https://case-file.pages.dev/)
-
-> ⚠️ **Status: In Progress (Scaffolding Complete)** — An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
-
-- 🤖 **AI-Driven Test Generation**: Converts requirements or tickets into comprehensive, structured test suites using custom guidelines and model providers (OpenAI GPT-4o & Google Gemini).
-- 🎫 **Smart Ticket Integration**: Built-in support to auto-detect and fetch content directly from GitHub Issues, Jira, Linear, Azure DevOps, and Zoho Sprints URLs.
-- 📊 **Smart Analysis & Deduplication**: Real-time coverage classification (API, UI, Security, Performance) and Jaccard-similarity duplicate test case warnings.
-- 👥 **Team & Cloud Sync**: Full user authentication and team sharing backed by Supabase with Row Level Security (RLS), falling back to native `localStorage` for offline support.
-- 📤 **Enterprise Export**: Export test cases seamlessly to CSV, JSON, Markdown, and Jira XRAY / Zephyr formats.
-
-`TypeScript` `Vite` `React` `Google Gemini API` `OpenAI API` `Supabase` `Vanilla CSS` `Clean Architecture`
 
 ---
 
