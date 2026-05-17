@@ -158,7 +158,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ### 🧪 [CaseFile](https://case-file.pages.dev/)
 
-> An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
+> ⚠️ **Status: In Progress (Scaffolding Complete)** — An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
 
 - 🤖 **AI-Driven Test Generation**: Converts requirements or tickets into comprehensive, structured test suites using custom guidelines and model providers (OpenAI GPT-4o & Google Gemini).
 - 🎫 **Smart Ticket Integration**: Built-in support to auto-detect and fetch content directly from GitHub Issues, Jira, Linear, Azure DevOps, and Zoho Sprints URLs.
