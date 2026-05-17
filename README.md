@@ -57,7 +57,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🗄️ [QueryCanvas](https://github.com/for-qa/query-canvas)
+### 🗄️ [QueryCanvas](https://query-canvas.pages.dev/)
 
 > A **comprehensive visual SQL development suite**—acts as a daily toolbox for building complex queries without writing code manually.
 
@@ -73,7 +73,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### ⚡ [TypeScript Universe](https://github.com/for-qa/ts-universe)
+### ⚡ [TypeScript Universe](https://ts-universe.pages.dev/)
 
 > An interactive, learner-centric **TypeScript educational platform** implemented completely devoid of heavy frontend frameworks.
 
@@ -89,7 +89,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 📄 [Document Forge](https://github.com/for-qa/document-forge)
+### 📄 [Document Forge](https://document-forge.onrender.com/)
 
 > A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images.
 
@@ -101,21 +101,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 - ⚡ Headless browser generation utilizing Chromium underneath
 
 `Node.js` `Express` `Playwright` `E2E Testing Engine` `API`
-
----
-
-### 🔐 [Fernet Vault](https://github.com/for-qa/fernet-vault)
-
-> A beautifully designed full-stack interface for generating and decoding symmetric Fernet tokens securely.
-
-<img src="assets/fernet-vault.png" alt="Fernet Vault UI" width="600"/>
-
-- 🎨 Designed utilizing premium glassmorphism visuals completely without thick CSS frameworks
-- 🏗️ Deeply clean-architected Backend abstraction
-- ⚡ Strict typings across Domain Logic and Express Handlers
-- 🔑 Secure key-pair verification mechanics
-
-`React` `Node.js` `Express` `Vite` `Encryption` `Clean Architecture`
 
 ---
 
