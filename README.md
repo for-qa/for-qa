@@ -29,6 +29,32 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
 [![Live Report](https://img.shields.io/badge/Playwright_Report-Live-2EAD33?style=flat&logo=playwright&logoColor=white)](https://for-qa.github.io/agentic-e2e-framework/)
 
+```mermaid
+flowchart TD
+    subgraph AI Agent Orchestration Layer
+        A[Acceptance Criteria / User Stories] -->|Structured Prompt Engineering| B(Planner Agent)
+        B -->|Test Scenarios Blueprint| C(Generator Agent)
+        C -->|Raw Playwright Code| D(Reviewer & Refiner Agent)
+        D -->|Vitest Unit Testing & Validation| E[Production-Grade Codebase]
+    end
+
+    subgraph Core Test Engine Framework
+        E --> F[TestSuiteConfiguration]
+        F -->|Priority-Based Tagging| G(Smart Scheduler)
+        G -->|Dynamic Shard Tag Generation| H[Parallel Test Runner]
+    end
+
+    subgraph CI/CD & Reporting Layer
+        H -->|GitHub Actions Runner| I{Playwright Test Executer}
+        I -->|Success / Failure| J[Vitest Unit Report & Playwright HTML Live Report]
+    end
+
+    style A fill:#1e1e38,stroke:#3178c6,stroke-width:2px,color:#fff
+    style E fill:#1e293b,stroke:#a855f7,stroke-width:2px,color:#fff
+    style H fill:#1e293b,stroke:#2ead33,stroke-width:2px,color:#fff
+    style J fill:#0f172a,stroke:#10b981,stroke-width:2px,color:#fff
+```
+
 - 🧠 Entire codebase generated using multi-step AI Agent workflows
 - 📋 Every test case maps directly to business Acceptance Criteria via structured prompt engineering
 - ⚙️ Modular `TestSuiteConfiguration` system with priority-based parallel scheduling and shard tagging
