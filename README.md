@@ -104,6 +104,58 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
+### 🎯 [Flakeless](https://flakeless.onrender.com/)
+
+> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards.
+
+- 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
+- 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
+- ⚡ **Offline-Ready PWA**: Fully functional offline study mode with persistent `localStorage` progress tracking and Zustand state management.
+- 🧪 **Continuous Integration**: Validated by a high-performance Playwright E2E pipeline run in 4 parallel shards on GitHub Actions.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `Playwright E2E` `Vitest` `PWA`
+
+---
+
+### 🎮 [PulsePlay](https://pulse-play.onrender.com/)
+
+> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
+
+- 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
+- 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
+- 📊 **Live Leaderboards & Reporting**: Features beautiful live ranking charts, hoverable results breakdown, and automated professional PDF report generation.
+- 🏗️ **Clean Architecture**: Deeply decoupled codebase using dependency inversion, separate core game logic, and port-driven adapters.
+
+`Node.js` `TypeScript` `Express` `Socket.IO` `Vite` `Vanilla JS` `Mermaid.js` `PDFKit`
+
+---
+
+### 🧠 [The Meta-Prompting Playbook](https://meta-prompt.pages.dev/)
+
+> A **high-fidelity, automated workshop slide deck** teaching advanced prompt engineering patterns through synchronized AI-voice narration and karaoke-style subtitles.
+
+- 🎬 **Karaoke-Style Synchronization**: Character-level audio-subtitle alignment highlighting text exactly as the AI voice narrator speaks.
+- 🎤 **AI Narration Engine**: Dynamically generated, high-quality audio files generated via character-aligned ElevenLabs TTS APIs.
+- 💡 **RCEC Framework Focus**: Deep dives into practical prompting strategies (Role, Context, Examples, Constraints) with real-world debugging workflows.
+- 💎 **Premium Dark UI**: Implemented in 100% pure vanilla HTML5/CSS3 with glassmorphism, neon accents, and sleek hardware-accelerated animations.
+
+`Vanilla JS` `HTML5` `CSS3` `ElevenLabs API` `Vite` `Text-to-Speech`
+
+---
+
+### ⚡ [TypeScript Learning Path](https://ts-age.pages.dev/)
+
+> An **interactive, session-by-session educational platform** designed to guide developers from TypeScript fundamentals to production-grade design patterns.
+
+- 🎓 **Interactive Quizzes & Practice**: Hands-on coding exercises and live-validated review questions covering falsy values, null-handling, and edge cases.
+- 🔒 **Zero Trust Protected**: Securely deployed under a private repository workflow using **Cloudflare Access (Zero Trust)** OTP authorization for private access.
+- 📦 **Local Assets & Performance**: Leverages offline-first font packages, Vite PWA registration, and aggressive client caching to achieve instantaneous loads.
+- 🏗️ **Clean Code Architecture**: Modular curriculum-driven design separating practice tasks, content pages, and application layout.
+
+`React` `TypeScript` `React Router` `Zustand` `Vite` `Vite PWA`
+
+---
+
 
 ## 🛠️ Tech Stack
 
