@@ -117,9 +117,14 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🎮 [PulsePlay](https://pulse-play.onrender.com/)
+### 🎮 PulsePlay
 
 > An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes. *(Note: Render free tier spins down on inactivity. Please allow 30–60 seconds for the initial wake-up load.)*
+
+🔗 **Live Access Links:**
+*   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
+*   💻 **[Host Screen](https://pulse-play.onrender.com/host)** (For presenters to run live sessions)
+*   ⚙️ **[Admin Control Panel](https://pulse-play.onrender.com/admin)** (For managing quiz catalog & questions)
 
 - 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
 - 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
