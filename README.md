@@ -29,7 +29,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
 [![Live Report](https://img.shields.io/badge/Playwright_Report-Live-2EAD33?style=flat&logo=playwright&logoColor=white)](https://for-qa.github.io/agentic-e2e-framework/)
 
-<img src="assets/agentic-e2e-framework.svg" alt="Agentic E2E Framework Architecture" width="800"/>
+<img src="assets/agentic-e2e-framework.png" alt="Agentic E2E Framework Architecture" width="800"/>
 
 - 🧠 Entire codebase generated using multi-step AI Agent workflows
 - 📋 Every test case maps directly to business Acceptance Criteria via structured prompt engineering
