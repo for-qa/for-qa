@@ -41,56 +41,34 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🎯 [Flakeless](https://flakeless.onrender.com/)
+### 🗄️ [QueryCanvas](https://query-canvas.pages.dev/)
 
-> A **professional Playwright & TypeScript interview mastery platform** featuring 300+ real-world interview questions, timed mock practices, and interactive flashcards.
+> A **comprehensive visual SQL development suite**—acts as a daily toolbox for building complex queries without writing code manually.
 
-> [!WARNING]
-> **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
+<img src="assets/query-canvas.png" alt="QueryCanvas Platform" width="600"/>
 
-- 📚 **Comprehensive Curriculum**: 20 highly-structured chapters covering everything from TypeScript core to enterprise-scale parallel execution and visual testing.
-- 🧠 **AI-Backed Interviewer**: Interactive mock interviews with custom prompt guidelines and real-time self-assessment analytics.
-- ⚡ **Offline-Ready PWA**: Fully functional offline study mode with persistent `localStorage` progress tracking and Zustand state management.
-- 🧪 **Continuous Integration**: Validated by a high-performance Playwright E2E pipeline run in 4 parallel shards on GitHub Actions.
+- 🧠 **AI Assistant**: Real natural language Prompt-to-SQL logic execution powered by Gemini 2.0 Flash
+- 📊 Interactive Grid: Spreadsheet-like grid system that safely handles and executes Batch INSERT commands
+- 🔗 Deeply Shareable: URL-encoded serialization allowing you to send live DB designs to colleagues instantly
+- 📝 ERD Visualizer: Live-rendering Mermaid ERD previews of schema designs
+- ✨ Browser Native: 100% Client-Side. Your connection details and DB structures remain fully private.
 
-`Next.js` `TypeScript` `Tailwind CSS` `Zustand` `Framer Motion` `Playwright E2E` `Vitest` `PWA`
-
----
-
-### 🧪 [CaseFile](https://case-file.pages.dev/)
-
-> [!IMPORTANT]
-> **Status: In Progress (Scaffolding Complete)**
-> An **AI-Powered Test Case Generation Platform** designed for QA and SDET architects to generate structured, rule-aware test cases from requirements or tickets.
-
-- 🤖 **AI-Driven Test Generation**: Converts requirements or tickets into comprehensive, structured test suites using custom guidelines and model providers (OpenAI GPT-4o & Google Gemini).
-- 🎫 **Smart Ticket Integration**: Built-in support to auto-detect and fetch content directly from GitHub Issues, Jira, Linear, Azure DevOps, and Zoho Sprints URLs.
-- 📊 **Smart Analysis & Deduplication**: Real-time coverage classification (API, UI, Security, Performance) and Jaccard-similarity duplicate test case warnings.
-- 👥 **Team & Cloud Sync**: Full user authentication and team sharing backed by Supabase with Row Level Security (RLS), falling back to native `localStorage` for offline support.
-- 📤 **Enterprise Export**: Export test cases seamlessly to CSV, JSON, Markdown, and Jira XRAY / Zephyr formats.
-
-`TypeScript` `Vite` `React` `Google Gemini API` `OpenAI API` `Supabase` `Vanilla CSS` `Clean Architecture`
+`React` `TypeScript` `Agentic AI` `Vite`
 
 ---
 
-### 🎮 PulsePlay
+### ⚡ [TypeScript Learning Path](https://ts-age.pages.dev/)
 
-> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
+> An **interactive, session-by-session educational platform** designed to guide developers from TypeScript fundamentals to production-grade design patterns.
 
-> [!WARNING]
-> **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
+<img src="assets/ts-age.png" alt="TypeScript Learning Path Dashboard" width="600"/>
 
-🔗 **Live Access Links:**
-*   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
-*   💻 **[Host Screen](https://pulse-play.onrender.com/host?host_token=gairik-qa)** (For presenters to run live sessions)
-*   ⚙️ **[Admin Control Panel](https://pulse-play.onrender.com/admin?admin_token=gairik-qa)** (For managing quiz catalog & questions)
+- 🎓 **Interactive Quizzes & Practice**: Hands-on coding exercises and live-validated review questions covering falsy values, null-handling, and edge cases.
+- 🔒 **Zero Trust Protected**: Securely deployed under a private repository workflow using **Cloudflare Access (Zero Trust)** OTP authorization for private access.
+- 📦 **Local Assets & Performance**: Leverages offline-first font packages, Vite PWA registration, and aggressive client caching to achieve instantaneous loads.
+- 🏗️ **Clean Code Architecture**: Modular curriculum-driven design separating practice tasks, content pages, and application layout.
 
-- 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
-- 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
-- 📊 **Live Leaderboards & Reporting**: Features beautiful live ranking charts, hoverable results breakdown, and automated professional PDF report generation.
-- 🏗️ **Clean Architecture**: Deeply decoupled codebase using dependency inversion, separate core game logic, and port-driven adapters.
-
-`Node.js` `TypeScript` `Express` `Socket.IO` `Vite` `Vanilla JS` `Mermaid.js` `PDFKit`
+`React` `TypeScript` `React Router` `Zustand` `Vite` `Vite PWA`
 
 ---
 
@@ -112,35 +90,24 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🗄️ [QueryCanvas](https://query-canvas.pages.dev/)
+### 🎮 PulsePlay
 
-> A **comprehensive visual SQL development suite**—acts as a daily toolbox for building complex queries without writing code manually.
+> An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
 
-<img src="assets/query-canvas.png" alt="QueryCanvas Platform" width="600"/>
+> [!WARNING]
+> **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
 
-- 🧠 **AI Assistant**: Real natural language Prompt-to-SQL logic execution powered by Gemini 2.0 Flash
-- 📊 Interactive Grid: Spreadsheet-like grid system that safely handles and executes Batch INSERT commands
-- 🔗 Deeply Shareable: URL-encoded serialization allowing you to send live DB designs to colleagues instantly
-- 📝 ERD Visualizer: Live-rendering Mermaid ERD previews of schema designs
-- ✨ Browser Native: 100% Client-Side. Your connection details and DB structures remain fully private.
+🔗 **Live Access Links:**
+*   🎮 **[Player App](https://pulse-play.onrender.com/play)** (For participants to join and play)
+*   💻 **[Host Screen](https://pulse-play.onrender.com/host?host_token=gairik-qa)** (For presenters to run live sessions)
+*   ⚙️ **[Admin Control Panel](https://pulse-play.onrender.com/admin?admin_token=gairik-qa)** (For managing quiz catalog & questions)
 
-`React` `TypeScript` `Agentic AI` `Vite`
+- 🔄 **Real-Time Synchronization**: Built on Socket.IO for sub-millisecond game state synchronization between the presenter's screen and players' mobile devices.
+- 🛡️ **Anti-Cheating Engine**: Strict device-identity matching and a three-strike automatic ban policy to mitigate unauthorized refreshes or duplicate entries.
+- 📊 **Live Leaderboards & Reporting**: Features beautiful live ranking charts, hoverable results breakdown, and automated professional PDF report generation.
+- 🏗️ **Clean Architecture**: Deeply decoupled codebase using dependency inversion, separate core game logic, and port-driven adapters.
 
----
-
-### ⚡ [TypeScript Universe](https://ts-universe.pages.dev/)
-
-> An interactive, learner-centric **TypeScript educational platform** implemented completely devoid of heavy frontend frameworks.
-
-<img src="assets/ts-universe.png" alt="TypeScript Universe Dashboard" width="600"/>
-
-- 🎬 Karaoke-Style Presentations with TTS voiceover and synchronized subtitles
-- 🎯 Spaced Repetition Review queue for managing incorrectly answered cards
-- 🔥 Study Tracker with persistent daily-login streak counter
-- 🧠 Built utilizing **SOLID principles** and Clean Architecture for the Vanilla Typescript engine
-- 🛝 Integrated Playground with Monaco code editor for real-time experiments
-
-`TypeScript` `Vanilla JS/TS` `Vite` `Clean Architecture` `SOLID`
+`Node.js` `TypeScript` `Express` `Socket.IO` `Vite` `Vanilla JS` `Mermaid.js` `PDFKit`
 
 ---
 
@@ -172,19 +139,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 - 💎 **Premium Dark UI**: Implemented in 100% pure vanilla HTML5/CSS3 with glassmorphism, neon accents, and sleek hardware-accelerated animations.
 
 `Vanilla JS` `HTML5` `CSS3` `ElevenLabs API` `Vite` `Text-to-Speech`
-
----
-
-### ⚡ [TypeScript Learning Path](https://ts-age.pages.dev/)
-
-> An **interactive, session-by-session educational platform** designed to guide developers from TypeScript fundamentals to production-grade design patterns.
-
-- 🎓 **Interactive Quizzes & Practice**: Hands-on coding exercises and live-validated review questions covering falsy values, null-handling, and edge cases.
-- 🔒 **Zero Trust Protected**: Securely deployed under a private repository workflow using **Cloudflare Access (Zero Trust)** OTP authorization for private access.
-- 📦 **Local Assets & Performance**: Leverages offline-first font packages, Vite PWA registration, and aggressive client caching to achieve instantaneous loads.
-- 🏗️ **Clean Code Architecture**: Modular curriculum-driven design separating practice tasks, content pages, and application layout.
-
-`React` `TypeScript` `React Router` `Zustand` `Vite` `Vite PWA`
 
 ---
 
