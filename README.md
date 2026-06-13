@@ -90,7 +90,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 🎮 PulsePlay
+### 🎮 [PulsePlay](https://pulse-play.onrender.com/host)
 
 > An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
 
