@@ -72,24 +72,6 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### ⚡ [Xtractor](https://github.com/for-qa/xtractor)
-
-> A **Professional, High-Performance Extraction Orchestrator & Dashboard** built on Clean Architecture constraints.
-
-[![CI](https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/xtractor/actions/workflows/ci.yml)
-
-<img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" alt="Xtractor Dashboard" width="600"/>
-
-- 📊 Real-time Dashboard with P50/P95/P99 latency analytics and throughput charts
-- ☁️ AWS S3 sync with SHA-256 integrity checks and resumable checkpointing
-- ⏰ Smart Cron Manager with SQLite-backed persistence for multi-tenant batch jobs
-- 📧 Automated HTML Failure Reports via SMTP/Nodemailer
-- 🔐 Fernet-encrypted secrets for secure credential management
-
-`TypeScript` `AWS S3` `SQLite` `Clean Architecture` `SOLID` `Node.js` `GitHub Actions`
-
----
-
 ### 🎮 [PulsePlay](https://pulse-play.onrender.com/host)
 
 > An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
@@ -123,6 +105,24 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 - 🏗️ **Comprehensive Coverage**: Covers aggregate functions, pattern matching, constraints, and advanced relationships.
 
 `React` `TypeScript` `PostgreSQL` `Vite` `Zustand`
+
+---
+
+### ⚡ [Xtractor](https://github.com/for-qa/xtractor)
+
+> A **Professional, High-Performance Extraction Orchestrator & Dashboard** built on Clean Architecture constraints.
+
+[![CI](https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/xtractor/actions/workflows/ci.yml)
+
+<img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" alt="Xtractor Dashboard" width="600"/>
+
+- 📊 Real-time Dashboard with P50/P95/P99 latency analytics and throughput charts
+- ☁️ AWS S3 sync with SHA-256 integrity checks and resumable checkpointing
+- ⏰ Smart Cron Manager with SQLite-backed persistence for multi-tenant batch jobs
+- 📧 Automated HTML Failure Reports via SMTP/Nodemailer
+- 🔐 Fernet-encrypted secrets for secure credential management
+
+`TypeScript` `AWS S3` `SQLite` `Clean Architecture` `SOLID` `Node.js` `GitHub Actions`
 
 ---
 
