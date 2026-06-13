@@ -111,34 +111,18 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
-### 📄 [Document Forge](https://document-forge.onrender.com/)
+### 🐘 [PostgreSQL Academy](https://pgsql-academy.pages.dev/)
 
-> A modern Web Application and Express REST API powered by Playwright to convert live URLs to high-quality PDFs and PNG images.
+> A **comprehensive, hands-on SQL training platform** taking developers from database setup to advanced queries like CTEs and window functions.
 
-> [!WARNING]
-> **Render Free Tier Active:** The initial API/page load will take **30–60 seconds** while the inactive container spins back up.
+<img src="assets/pgsql-academy.png" alt="PostgreSQL Academy Dashboard" width="600"/>
 
-<img src="assets/document-forge.png" alt="Document Forge Dashboard" width="600"/>
+- 🎓 **Structured Learning Path**: Over 17 modules covering CRUD operations, Schema Design, Data Modeling, and JOINs.
+- 🛠️ **Practical Projects**: Includes real-world mini-projects like building an Orders Database to answer business questions.
+- 🧠 **Interactive Interface**: Sleek dark-mode UI with progress tracking and modular navigation.
+- 🏗️ **Comprehensive Coverage**: Covers aggregate functions, pattern matching, constraints, and advanced relationships.
 
-- 🌐 Modern Web UI for uploading HTML files or URLs seamlessly
-- 🔌 Programmatic REST API endpoints with multipart form-data payload support
-- 📏 Custom viewports and dark-mode rendering configurations
-- ⚡ Headless browser generation utilizing Chromium underneath
-
-`Node.js` `Express` `Playwright` `E2E Testing Engine` `API`
-
----
-
-### 🧠 [The Meta-Prompting Playbook](https://meta-prompt.pages.dev/)
-
-> A **high-fidelity, automated workshop slide deck** teaching advanced prompt engineering patterns through synchronized AI-voice narration and karaoke-style subtitles.
-
-- 🎬 **Karaoke-Style Synchronization**: Character-level audio-subtitle alignment highlighting text exactly as the AI voice narrator speaks.
-- 🎤 **AI Narration Engine**: Dynamically generated, high-quality audio files generated via character-aligned ElevenLabs TTS APIs.
-- 💡 **RCEC Framework Focus**: Deep dives into practical prompting strategies (Role, Context, Examples, Constraints) with real-world debugging workflows.
-- 💎 **Premium Dark UI**: Implemented in 100% pure vanilla HTML5/CSS3 with glassmorphism, neon accents, and sleek hardware-accelerated animations.
-
-`Vanilla JS` `HTML5` `CSS3` `ElevenLabs API` `Vite` `Text-to-Speech`
+`React` `TypeScript` `PostgreSQL` `Vite` `Zustand`
 
 ---
 
