@@ -7,25 +7,63 @@ interface ReadmeStrategy {
 
 class ExperienceUpdater implements ReadmeStrategy {
     private readonly joinDate: Date;
-    private readonly regex = /(\d+)\+\s*Years in Software QA/;
 
     constructor(joinDateString: string) {
         this.joinDate = new Date(joinDateString);
     }
 
-    private calculateYearsOfExperience(): number {
-        const currentDate = new Date();
-        const diffTime = Math.abs(currentDate.getTime() - this.joinDate.getTime());
-        return Math.floor(diffTime / (1000 * 60 * 60 * 24 * 365.25));
+    private calculateExactExperience(): string {
+        const startDate = this.joinDate;
+        const endDate = new Date();
+
+        let years = endDate.getFullYear() - startDate.getFullYear();
+        let months = endDate.getMonth() - startDate.getMonth();
+        let days = endDate.getDate() - startDate.getDate();
+
+        if (days < 0) {
+            months -= 1;
+            const prevMonthDate = new Date(endDate.getFullYear(), endDate.getMonth(), 0);
+            days += prevMonthDate.getDate();
+        }
+
+        if (months < 0) {
+            years -= 1;
+            months += 12;
+        }
+
+        const yearStr = years === 1 ? '1 Year' : `${years} Years`;
+        const monthStr = months === 1 ? '1 Month' : `${months} Months`;
+        const dayStr = days === 1 ? '1 Day' : `${days} Days`;
+
+        let result = [];
+        if (years > 0) result.push(yearStr);
+        if (months > 0) result.push(monthStr);
+        if (days > 0) result.push(dayStr);
+
+        if (result.length === 3) {
+            return `${result[0]}, ${result[1]} and ${result[2]}`;
+        } else if (result.length === 2) {
+            return `${result[0]} and ${result[1]}`;
+        } else if (result.length === 1) {
+            return result[0];
+        }
+        return '0 Days';
     }
 
     public async update(content: string): Promise<string> {
-        const diffYears = this.calculateYearsOfExperience();
+        const diffStr = this.calculateExactExperience();
         
-        if (this.regex.test(content)) {
-            return content.replace(this.regex, `${diffYears}+ Years in Software QA`);
+        const regex = /<!-- DYNAMIC:EXPERIENCE_START -->[\s\S]*?<!-- DYNAMIC:EXPERIENCE_END -->/;
+        if (regex.test(content)) {
+            return content.replace(regex, `<!-- DYNAMIC:EXPERIENCE_START -->${diffStr}<!-- DYNAMIC:EXPERIENCE_END -->`);
         }
         
+        // Fallback for migration
+        const oldRegex = /(\d+)\+\s*Years/;
+        if (oldRegex.test(content)) {
+            return content.replace(oldRegex, `<!-- DYNAMIC:EXPERIENCE_START -->${diffStr}<!-- DYNAMIC:EXPERIENCE_END -->`);
+        }
+
         console.warn("[ExperienceUpdater] Target text not found in README.");
         return content;
     }

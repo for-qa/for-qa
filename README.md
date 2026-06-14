@@ -10,12 +10,12 @@
 
 <br>
 
-**I engineer intelligent automation frameworks and scalable testing infrastructure —**
-**engineered with AI Agent Orchestration and Clean Architecture principles.**
-**I specialize in building robust Playwright & TypeScript E2E suites with parallel CI/CD execution.**
-**My expertise covers deep backend validation across AWS, GraphQL APIs, and PostgreSQL databases.**
+**Architect of intelligent automation frameworks and scalable testing infrastructure,**
+**focused on AI Agent Orchestration and Clean Architecture principles.**
+**Specialist in robust Playwright & TypeScript E2E suites with parallel CI/CD execution,**
+**and deep backend validation across AWS, GraphQL APIs, and PostgreSQL.**
 
-📍 India &nbsp;·&nbsp; 7+ Years in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
+📍 India &nbsp;·&nbsp; <!-- DYNAMIC:EXPERIENCE_START -->7 Years, 2 Months and 13 Days<!-- DYNAMIC:EXPERIENCE_END --> in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
 <br>
 
