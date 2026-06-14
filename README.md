@@ -124,7 +124,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,playwright,aws,graphql,postgres,sentry,githubactions,react,vite,express,sqlite&perline=12" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,aws,graphql,postgres,sentry,githubactions,react,vite,express,sqlite&perline=12" alt="Skill Icons"/>
 </div>
 
 <br>
