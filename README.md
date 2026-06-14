@@ -127,12 +127,16 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <br>
 
+<div align="center">
+
 | Domain | Core Competencies |
 | :--- | :--- |
 | **QA & Testing** | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry |
 | **AI Engineering** | Agentic Workflows · Prompt Engineering · LLMs (Claude/GPT-4o/Gemini) · Cursor IDE |
 | **Backend & Cloud** | Node.js · AWS (Lambda, S3, EC2) · PostgreSQL · SQLite · Clean Architecture · SOLID |
 | **DevOps & CI-CD** | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest |
+
+</div>
 
 <br>
 
