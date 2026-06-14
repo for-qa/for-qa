@@ -127,12 +127,28 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <br>
 
-| Domain | Core Competencies |
-| :--- | :--- |
-| **QA & Testing** | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry |
-| **AI Engineering** | Agentic Workflows · Prompt Engineering · LLMs (Claude/GPT-4o/Gemini) · Cursor IDE |
-| **Backend & Cloud** | Node.js · AWS (Lambda, S3, EC2) · PostgreSQL · SQLite · Clean Architecture · SOLID |
-| **DevOps & CI-CD** | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest |
+<table width="100%">
+  <tr>
+    <th width="20%" align="left">Domain</th>
+    <th width="80%" align="left">Core Competencies</th>
+  </tr>
+  <tr>
+    <td><b>QA & Testing</b></td>
+    <td>Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry</td>
+  </tr>
+  <tr>
+    <td><b>AI Engineering</b></td>
+    <td>Agentic Workflows · Prompt Engineering · LLMs (Claude/GPT-4o/Gemini) · Cursor IDE</td>
+  </tr>
+  <tr>
+    <td><b>Backend & Cloud</b></td>
+    <td>Node.js · AWS (Lambda, S3, EC2) · PostgreSQL · SQLite · Clean Architecture · SOLID</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & CI-CD</b></td>
+    <td>GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest</td>
+  </tr>
+</table>
 
 <br>
 
