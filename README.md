@@ -10,8 +10,8 @@
 
 <br>
 
-_I engineer intelligent automation frameworks and scalable testing infrastructure —_
-_engineered with AI Agent Orchestration and Clean Architecture principles._
+**I engineer intelligent automation frameworks and scalable testing infrastructure —**
+**engineered with AI Agent Orchestration and Clean Architecture principles.**
 
 📍 India &nbsp;·&nbsp; 7+ Years in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
