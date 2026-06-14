@@ -10,7 +10,7 @@
 
 <br>
 
-_I build enterprise-grade automation frameworks and high-performance backend systems —_
+_I engineer intelligent automation frameworks and scalable testing infrastructure —_
 _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 📍 India &nbsp;·&nbsp; 7+ Years in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
