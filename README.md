@@ -15,7 +15,7 @@
 **Specialist in robust Playwright & TypeScript E2E suites with parallel CI/CD execution,**
 **and deep backend validation across AWS, GraphQL APIs, and PostgreSQL.**
 
-📍 India &nbsp;·&nbsp; <!-- DYNAMIC:EXPERIENCE_START -->7 Years, 2 Months and 13 Days<!-- DYNAMIC:EXPERIENCE_END --> in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
+📍 India &nbsp;·&nbsp; <!-- DYNAMIC:EXPERIENCE_START -->7 Years, 2 Months and 14 Days<!-- DYNAMIC:EXPERIENCE_END --> in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
 <br>
 
@@ -50,7 +50,7 @@
         <a href="https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml"><img src="https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg" alt="CI"></a>
         <br>
         <!-- DYNAMIC:TEST_HEALTH_START -->
-**Nightly E2E Status:** 🟢 100% Passed (Last run: 25/3/2026)
+**Nightly E2E Status:** 🟢 100% Passed (Last run: 3/25/2026)
 <!-- DYNAMIC:TEST_HEALTH_END -->
       </div>
       <p align="center">An enterprise-grade <b>Playwright + TypeScript</b> test suite built <b>100% via AI Agent Orchestration</b>.</p>
