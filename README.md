@@ -82,7 +82,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">🎮 <a href="https://pulse-play.onrender.com/host">PulsePlay</a></h3>
       <div align="center">
         <a href="https://pulse-play.onrender.com/host">
-          <img src="assets/pulseplay.png" width="100%" alt="PulsePlay" style="border-radius: 8px;"/>
+          <img src="assets/pulse-play.png" width="100%" alt="PulsePlay" style="border-radius: 8px;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-2EAD33?style=flat" alt="Live"/>
