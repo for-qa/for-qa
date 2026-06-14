@@ -4,8 +4,6 @@
 
 <br>
 
-# 👋 Hey, I'm Gairik Singha
-
 <a href="https://github.com/for-qa">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EAD33&center=true&vCenter=true&lines=SDET+%26+QA+Architect;Playwright+%26+TypeScript;AI+Agent+Orchestration;Clean+Architecture" alt="Typing SVG" />
 </a>
