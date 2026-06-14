@@ -22,6 +22,8 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ## 🚀 Featured Projects
 
+> **💡 Personal Portfolio Note:** All projects listed below are 100% independently designed, engineered, and maintained by me as personal portfolio pieces, not company products.
+
 ### 🤖 [Agentic E2E Framework — Portfolio Demo](https://github.com/for-qa/agentic-e2e-framework)
 
 > An enterprise-grade **Playwright + TypeScript** test suite built **100% via AI Agent Orchestration**.
@@ -75,6 +77,8 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ### 🎮 [PulsePlay](https://pulse-play.onrender.com/host)
 
 > An **interactive, real-time multiplayer Kahoot-style quiz platform** engineered for high-engagement live workshops and classes.
+
+<img src="assets/pulseplay.png" alt="PulsePlay Host Dashboard" width="600"/>
 
 > [!WARNING]
 > **Render Free Tier Active:** The initial page load will take **30–60 seconds** while the inactive container spins back up.
