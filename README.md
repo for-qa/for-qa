@@ -45,7 +45,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
           <img src="assets/agentic-e2e-framework.png" height="220" alt="Agentic E2E Framework" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
-        [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
+        <a href="https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml"><img src="https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg" alt="CI"></a>
         <br>
         <!-- DYNAMIC:TEST_HEALTH_START -->
 **Nightly E2E Status:** 🟢 100% Passed (Last run: 25/3/2026)
@@ -108,7 +108,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
           <img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" height="220" alt="Xtractor" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
-        [![CI](https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/xtractor/actions/workflows/ci.yml)
+        <a href="https://github.com/for-qa/xtractor/actions/workflows/ci.yml"><img src="https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
       </div>
       <p align="center">A high-performance extraction orchestrator built on <b>Clean Architecture</b> constraints.</p>
     </td>
