@@ -18,6 +18,10 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 ---
 
+<!-- DYNAMIC:LEARNING_START -->
+> 📚 **Currently Learning:** Exploring Gemini 2.0 Flash for Agentic Workflows &middot; **Reading:** Clean Architecture by Robert C. Martin
+<!-- DYNAMIC:LEARNING_END -->
+
 </div>
 
 ## 🚀 Featured Projects
@@ -30,6 +34,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
 [![Live Report](https://img.shields.io/badge/Playwright_Report-Live-2EAD33?style=flat&logo=playwright&logoColor=white)](https://for-qa.github.io/agentic-e2e-framework/)
+<!-- DYNAMIC:TEST_HEALTH_START -->
+**Nightly E2E Status:** 🟢 100% Passed (Last run: 25/3/2026)
+<!-- DYNAMIC:TEST_HEALTH_END -->
 
 <img src="assets/agentic-e2e-framework.png" alt="Agentic E2E Framework Architecture" width="800"/>
 
@@ -188,6 +195,9 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=for-qa&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://gh-readme-stats.vercel.app/api/top-langs/?username=for-qa&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- DYNAMIC:WAKATIME_START -->
+<!-- DYNAMIC:WAKATIME_END -->
 
 </div>
 
