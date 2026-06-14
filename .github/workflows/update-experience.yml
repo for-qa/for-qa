@@ -2,8 +2,8 @@ name: Update QA Experience
 
 on:
   schedule:
-    # Run at 00:00 on the 1st of every month
-    - cron: '0 0 1 * *'
+    # Run at 12:00 AM IST (18:30 UTC) every day
+    - cron: '30 18 * * *'
   workflow_dispatch: # Allows you to run this manually from the Actions tab
 
 permissions:
@@ -25,6 +25,7 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: 'Asia/Kolkata'
         run: npx tsx scripts/update-readme.ts
         
       - name: Commit and Push Changes
