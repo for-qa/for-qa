@@ -142,18 +142,17 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<div align="center">
+
 ## 💼 Professional Experience
 
-> **SDET / QA Architect** @ _Intelligent Revenue LLP_ (Dec 2024 – Present)
-> - Designed enterprise **Playwright + TypeScript** E2E framework using Clean Architecture and **AI Agent Orchestration**.
-> - Validated AWS cloud infrastructure (Lambda, EC2, S3), REST/GraphQL APIs, and PostgreSQL databases.
+> **SDET / QA Architect** @ _Intelligent Revenue LLP_ (Dec 2024 – Present)<br>Designed enterprise **Playwright + TypeScript** E2E framework using Clean Architecture and **AI Agent Orchestration**.<br>Validated AWS cloud infrastructure (Lambda, EC2, S3), REST/GraphQL APIs, and PostgreSQL databases.
 
-> **Senior Quality Assurance Executive** @ _Avalgate Software LLP_ (Mar 2021 – Nov 2024)
-> - Led end-to-end QA for Android, iOS, and web apps across 4 major products.
-> - Reduced critical bugs by 25% via systematic black-box testing and maintained STLC documentation in Jira.
+> **Senior Quality Assurance Executive** @ _Avalgate Software LLP_ (Mar 2021 – Nov 2024)<br>Led end-to-end QA for Android, iOS, and web apps across 4 major products.<br>Reduced critical bugs by 25% via systematic black-box testing and maintained STLC documentation in Jira.
 
-> **Junior QA / Internship Trainee** @ _Avalgate Software LLP_ (Apr 2019 – Feb 2021)
-> - Executed functional test cases across Android, iOS & web through the full bug lifecycle.
+> **Junior QA / Internship Trainee** @ _Avalgate Software LLP_ (Apr 2019 – Feb 2021)<br>Executed functional test cases across Android, iOS & web through the full bug lifecycle.
+
+</div>
 
 <br>
 
@@ -176,12 +175,15 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<div align="center">
+
 ## 📬 Get In Touch
 
 I'm actively looking for **SDET / Senior QA Automation / AI Quality Engineering** opportunities.
 
-- 📧 **Email**: [gairiksingha@live.com](mailto:gairiksingha@live.com)
-- 💼 **LinkedIn**: [linkedin.com/in/gairik-singha](https://www.linkedin.com/in/gairik-singha/)
+📧 **Email**: [gairiksingha@live.com](mailto:gairiksingha@live.com) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **LinkedIn**: [linkedin.com/in/gairik-singha](https://www.linkedin.com/in/gairik-singha/)
+
+</div>
 
 <br>
 
