@@ -129,8 +129,8 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <table width="100%">
   <tr>
-    <th width="20%" align="left">Domain</th>
-    <th width="80%" align="left">Core Competencies</th>
+    <th align="left">Domain<img width="200" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
+    <th align="left">Core Competencies<img width="700" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
   </tr>
   <tr>
     <td><b>QA & Testing</b></td>
