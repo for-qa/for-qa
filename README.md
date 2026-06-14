@@ -127,28 +127,12 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
 
 <br>
 
-<table width="100%">
-  <tr>
-    <th align="left">Domain<img width="200" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
-    <th align="left">Core Competencies<img width="700" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"></th>
-  </tr>
-  <tr>
-    <td><b>QA & Testing</b></td>
-    <td>Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry</td>
-  </tr>
-  <tr>
-    <td><b>AI Engineering</b></td>
-    <td>Agentic Workflows · Prompt Engineering · LLMs (Claude/GPT-4o/Gemini) · Cursor IDE</td>
-  </tr>
-  <tr>
-    <td><b>Backend & Cloud</b></td>
-    <td>Node.js · AWS (Lambda, S3, EC2) · PostgreSQL · SQLite · Clean Architecture · SOLID</td>
-  </tr>
-  <tr>
-    <td><b>DevOps & CI-CD</b></td>
-    <td>GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest</td>
-  </tr>
-</table>
+| Domain | Core Competencies |
+| :--- | :--- |
+| **QA & Testing** | Playwright · E2E Automation · UI/API Testing · GraphQL & REST · Jira Xray · Sentry |
+| **AI Engineering** | Agentic Workflows · Prompt Engineering · LLMs (Claude/GPT-4o/Gemini) · Cursor IDE |
+| **Backend & Cloud** | Node.js · AWS (Lambda, S3, EC2) · PostgreSQL · SQLite · Clean Architecture · SOLID |
+| **DevOps & CI-CD** | GitHub Actions · Bitbucket Pipelines · Parallel Shard Execution · Agile Scrum · Vitest |
 
 <br>
 
