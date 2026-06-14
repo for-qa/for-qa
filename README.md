@@ -181,7 +181,7 @@
 
 ## 📬 Get In Touch
 
-I'm actively looking for **SDET / Senior QA Automation / AI Quality Engineering** opportunities.
+I'm always open to discussing Software Quality, Automation Architecture, or AI Engineering.
 
 📧 **Email**: [gairiksingha@live.com](mailto:gairiksingha@live.com) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **LinkedIn**: [linkedin.com/in/gairik-singha](https://www.linkedin.com/in/gairik-singha/)
 
