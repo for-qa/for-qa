@@ -44,10 +44,11 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">🤖 <a href="https://github.com/for-qa/agentic-e2e-framework">Agentic E2E Framework</a></h3>
       <div align="center">
         <a href="https://github.com/for-qa/agentic-e2e-framework">
-          <img src="assets/agentic-e2e-framework.png" width="100%" alt="Agentic E2E Framework" style="border-radius: 8px;"/>
+          <img src="assets/agentic-e2e-framework.png" height="220" alt="Agentic E2E Framework" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         [![CI](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/for-qa/agentic-e2e-framework/actions/workflows/playwright.yml)
+        <br>
         <!-- DYNAMIC:TEST_HEALTH_START -->
 **Nightly E2E Status:** 🟢 100% Passed (Last run: 25/3/2026)
 <!-- DYNAMIC:TEST_HEALTH_END -->
@@ -58,7 +59,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">🗄️ <a href="https://query-canvas.pages.dev/">QueryCanvas</a></h3>
       <div align="center">
         <a href="https://query-canvas.pages.dev/">
-          <img src="assets/query-canvas.png" width="100%" alt="Query Canvas" style="border-radius: 8px;"/>
+          <img src="assets/query-canvas.png" height="220" alt="Query Canvas" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-2EAD33?style=flat" alt="Live"/>
@@ -71,7 +72,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">⚡ <a href="https://ts-age.pages.dev/">TypeScript Learning Path</a></h3>
       <div align="center">
         <a href="https://ts-age.pages.dev/">
-          <img src="assets/ts-age.png" width="100%" alt="TypeScript Age" style="border-radius: 8px;"/>
+          <img src="assets/ts-age.png" height="220" alt="TypeScript Age" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-2EAD33?style=flat" alt="Live"/>
@@ -82,7 +83,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">🎮 <a href="https://pulse-play.onrender.com/host">PulsePlay</a></h3>
       <div align="center">
         <a href="https://pulse-play.onrender.com/host">
-          <img src="assets/pulse-play.png" width="100%" alt="PulsePlay" style="border-radius: 8px;"/>
+          <img src="assets/pulse-play.png" height="220" alt="PulsePlay" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-2EAD33?style=flat" alt="Live"/>
@@ -95,7 +96,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">🐘 <a href="https://pgsql-academy.pages.dev/">PostgreSQL Academy</a></h3>
       <div align="center">
         <a href="https://pgsql-academy.pages.dev/">
-          <img src="assets/pgsql-academy.png" width="100%" alt="PostgreSQL Academy" style="border-radius: 8px;"/>
+          <img src="assets/pgsql-academy.png" height="220" alt="PostgreSQL Academy" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-2EAD33?style=flat" alt="Live"/>
@@ -106,7 +107,7 @@ _engineered with AI Agent Orchestration and Clean Architecture principles._
       <h3 align="center">⚙️ <a href="https://github.com/for-qa/xtractor">Xtractor Dashboard</a></h3>
       <div align="center">
         <a href="https://github.com/for-qa/xtractor">
-          <img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" width="100%" alt="Xtractor" style="border-radius: 8px;"/>
+          <img src="https://raw.githubusercontent.com/for-qa/xtractor/main/docs/dashboard.png" height="220" alt="Xtractor" style="object-fit: cover; width: 100%; border-radius: 8px;"/>
         </a>
         <br><br>
         [![CI](https://github.com/for-qa/xtractor/actions/workflows/ci.yml/badge.svg)](https://github.com/for-qa/xtractor/actions/workflows/ci.yml)
