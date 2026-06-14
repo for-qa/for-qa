@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Profile Banner" width="100%" height="250" style="object-fit: cover; object-position: center; border-radius: 12px;" />
+<img src="assets/banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
 
 <br>
 
