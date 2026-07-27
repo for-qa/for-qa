@@ -15,7 +15,7 @@
 **Specialist in robust Playwright & TypeScript E2E suites with parallel CI/CD execution,**
 **and deep backend validation across AWS, GraphQL APIs, and PostgreSQL.**
 
-📍 India &nbsp;·&nbsp; <!-- DYNAMIC:EXPERIENCE_START -->7 Years, 3 Months and 26 Days<!-- DYNAMIC:EXPERIENCE_END --> in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
+📍 India &nbsp;·&nbsp; <!-- DYNAMIC:EXPERIENCE_START -->7 Years, 3 Months and 27 Days<!-- DYNAMIC:EXPERIENCE_END --> in Software QA &nbsp;·&nbsp; SDET & Automation Specialist
 
 <br>
 
